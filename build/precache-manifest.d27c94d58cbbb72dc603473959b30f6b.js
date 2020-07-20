@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3f3f6bfd124645e41d86a756cce0425b",
+    "revision": "428c96b6a19eb71a6af8b95554e3b3d6",
     "url": "/ekta/index.html"
   },
   {
-    "revision": "a759f3aef76d1a667d40",
+    "revision": "0fd1160a037c659f2d4e",
     "url": "/ekta/static/css/2.63147665.chunk.css"
   },
   {
-    "revision": "e1fd9ec3a1e041b4bca1",
+    "revision": "23643990998a0c62a0b5",
     "url": "/ekta/static/css/main.6331454f.chunk.css"
   },
   {
-    "revision": "a759f3aef76d1a667d40",
-    "url": "/ekta/static/js/2.f187705a.chunk.js"
+    "revision": "0fd1160a037c659f2d4e",
+    "url": "/ekta/static/js/2.28b2793e.chunk.js"
   },
   {
     "revision": "1a0968dc243fc785d05284e154e37292",
-    "url": "/ekta/static/js/2.f187705a.chunk.js.LICENSE.txt"
+    "url": "/ekta/static/js/2.28b2793e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e1fd9ec3a1e041b4bca1",
-    "url": "/ekta/static/js/main.ea032dee.chunk.js"
+    "revision": "23643990998a0c62a0b5",
+    "url": "/ekta/static/js/main.8be3f1c4.chunk.js"
   },
   {
-    "revision": "18963152a66c04123bd5",
-    "url": "/ekta/static/js/runtime-main.12c56c18.js"
+    "revision": "d3e1024d124515e5900d",
+    "url": "/ekta/static/js/runtime-main.daaeb8ad.js"
   },
   {
     "revision": "427becb3c09693a04a2aa607862224c4",
