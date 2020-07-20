@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "428c96b6a19eb71a6af8b95554e3b3d6",
+    "revision": "be71de1c94fad64ab50589667a6f0d08",
     "url": "/ekta/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ekta/static/css/2.63147665.chunk.css"
   },
   {
-    "revision": "23643990998a0c62a0b5",
+    "revision": "3f5a9e0fb9946aa3fbfa",
     "url": "/ekta/static/css/main.6331454f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ekta/static/js/2.28b2793e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "23643990998a0c62a0b5",
-    "url": "/ekta/static/js/main.8be3f1c4.chunk.js"
+    "revision": "3f5a9e0fb9946aa3fbfa",
+    "url": "/ekta/static/js/main.806f83d6.chunk.js"
   },
   {
     "revision": "d3e1024d124515e5900d",

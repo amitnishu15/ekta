@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ekta/static/css/main.6331454f.chunk.css",
-    "main.js": "/ekta/static/js/main.8be3f1c4.chunk.js",
-    "main.js.map": "/ekta/static/js/main.8be3f1c4.chunk.js.map",
+    "main.js": "/ekta/static/js/main.806f83d6.chunk.js",
+    "main.js.map": "/ekta/static/js/main.806f83d6.chunk.js.map",
     "runtime-main.js": "/ekta/static/js/runtime-main.daaeb8ad.js",
     "runtime-main.js.map": "/ekta/static/js/runtime-main.daaeb8ad.js.map",
     "static/css/2.63147665.chunk.css": "/ekta/static/css/2.63147665.chunk.css",
     "static/js/2.28b2793e.chunk.js": "/ekta/static/js/2.28b2793e.chunk.js",
     "static/js/2.28b2793e.chunk.js.map": "/ekta/static/js/2.28b2793e.chunk.js.map",
     "index.html": "/ekta/index.html",
-    "precache-manifest.d27c94d58cbbb72dc603473959b30f6b.js": "/ekta/precache-manifest.d27c94d58cbbb72dc603473959b30f6b.js",
+    "precache-manifest.46ed6a61401478a6340bf6d94ba5b064.js": "/ekta/precache-manifest.46ed6a61401478a6340bf6d94ba5b064.js",
     "service-worker.js": "/ekta/service-worker.js",
     "static/css/2.63147665.chunk.css.map": "/ekta/static/css/2.63147665.chunk.css.map",
     "static/css/main.6331454f.chunk.css.map": "/ekta/static/css/main.6331454f.chunk.css.map",
@@ -53,6 +53,6 @@
     "static/css/2.63147665.chunk.css",
     "static/js/2.28b2793e.chunk.js",
     "static/css/main.6331454f.chunk.css",
-    "static/js/main.8be3f1c4.chunk.js"
+    "static/js/main.806f83d6.chunk.js"
   ]
 }
