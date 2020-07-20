@@ -44,7 +44,7 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "I am a software engineer who enjoys leadership and mentoring. I'm fascinated by leverage and always looking for opportunities to increase team performance by acting as a force multiplier. Having worked in the software industry since 2018, I'm excited by new opportunities for the technology to empower human collaboration and I'm particularly interested in the domain of front end development My two years of management training and strong communication skills make me excellent at bridging business requirements with modern technology. I have got a degree in Master's in Computer Science from NIT Bhopal India and am comfortable at all levels of the software development stack."
+            "She is beautiful, genius, intelligent, well cultured, smart & open minded girl. Her hobbies include teaching, music, yoga, cooking, traveling etc. She really has an amazing sense of personal freedom and self-direction. It's very refreshing!  her voice! Damn! Her voice is so sweet that anyone can literally listen to her for hours!"
         }
         // {
         //   id: "second-p-about",
